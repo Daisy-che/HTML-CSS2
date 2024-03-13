@@ -1,0 +1,75 @@
+.job{
+    @media screen {
+        
+    }
+    justify-content: space-evenly;
+    display: flex;
+}
+.color{
+   @media screen {
+    
+   }
+   display: flex;
+}
+.home{
+    @media screen {
+        
+    }
+    gap: 50px;
+    display: flex;
+}
+.b{
+    @media screen {
+        
+    }
+    display: flex;
+    justify-content: space-evenly;
+}
+.for{
+    @media screen {
+        
+    }
+    display: flex;
+    margin-left: 50px;
+}
+.shop{
+    @media screen {
+        
+    }
+    background-color:whitesmoke;
+    display: flex;
+    gap: 400px;
+    margin-left: 50px;
+}
+.all{
+    @media screen {
+        
+    }
+    display: flex;
+    gap: 50px;
+}
+.cap{
+    @media screen {
+        
+    }
+    display: flex;
+}
+.fig{
+    @media screen {
+        
+    }
+    display: flex;
+}
+.fox{
+    @media screen {
+        
+    }
+    display: flex;
+}
+.Box{
+    @media screen {
+        
+    }
+    display: flex;
+    gap: 50px;
+}
